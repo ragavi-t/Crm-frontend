@@ -1,0 +1,221 @@
+//Admin
+[
+    {
+        "_id": "6410b3a1501d09012e038a8d",
+        "name": "Parthasarathi.J",
+        "email": "parthayoor@gmail.com",
+        "department": "Administrator"
+    }
+]
+
+//team lead 
+[
+    {
+        "_id": "6410addfa74ad1fafe78b40f",
+        "name": "Jhon.P",
+        "email": "jhonyoor@gmail.com",
+        "department": "service"
+    },
+    {
+        "_id": "6410aeabd567ba91996e827a",
+        "name": "Zakee.M",
+        "email": "zakeeyoor@gmail.com",
+        "department": "Body Shop"
+    }
+]
+
+//sevice ServiceAdvisor
+[
+    {
+        "_id": "6410af73a15dfa1b1c6ef096",
+        "name": "Ram Moorthy.M",
+        "email": "ramuyoor@gmail.com",
+        "department": "Body Shop"
+    },
+    {
+        "_id": "6410af8ba15dfa1b1c6ef097",
+        "name": "Sethupathy.R",
+        "email": "sethuyoor@gmail.com",
+        "department": "Body Shop"
+    },
+    {
+        "_id": "6410afb3a15dfa1b1c6ef098",
+        "name": "Karikalan.V",
+        "email": "karikalanyoor@gmail.com",
+        "department": "Service"
+    },
+    {
+        "_id": "6410afcfa15dfa1b1c6ef099",
+        "name": "Paul Walker.S",
+        "email": "paulyoor@gmail.com",
+        "department": "Service"
+    }
+
+    //Technicians
+    [
+    {
+        "_id": "6410b2125cae886574e29331",
+        "name": "Syed Ibrahim.A",
+        "email": "syedyoor@gmail.com",
+        "department": "Service"
+    },
+    {
+        "_id": "6410b2315cae886574e29332",
+        "name": "Shyam.K",
+        "email": "shyamyoor@gmail.com",
+        "department": "Service"
+    },
+    {
+        "_id": "6410b2495cae886574e29333",
+        "name": "Senthil.S",
+        "email": "senthilyoor@gmail.com",
+        "department": "Service"
+    },
+    {
+        "_id": "6410b2655cae886574e29334",
+        "name": "Jaffer.R",
+        "email": "jafferyoor@gmail.com",
+        "department": "Body Shop"
+    },
+    {
+        "_id": "6410b2855cae886574e29335",
+        "name": "Pravin.V",
+        "email": "pravinyoor@gmail.com",
+        "department": "Body Shop"
+    },
+    {
+        "_id": "6410b29a5cae886574e29336",
+        "name": "Ilantheriyan.R",
+        "email": "ilangoyoor@gmail.com",
+        "department": "Body Shop"
+    }
+]
+
+//service requests
+[
+    {
+        "_id": "6410e1065a925f80238bbc83",
+        "name": "Sheela",
+        "email": "sheelayoor@gmail.com",
+        "vehiclebrand": "Maruti Suzuki",
+        "vehiclevin": "GXPLU20U7CXW37894",
+        "status": "created"
+    },
+    {
+        "_id": "6410e186caa61d94df0f9eea",
+        "name": "Deva",
+        "email": "devayoor@gmail.com",
+        "vehiclebrand": "Hyundai",
+        "vehiclevin": "GJJ0PY0KSNFC52375",
+        "status": "open"
+    },
+    {
+        "_id": "6410e1c5caa61d94df0f9eeb",
+        "name": "Samuel.G",
+        "email": "samuelyoor@gmail.com",
+        "vehiclebrand": "Mahindra",
+        "vehiclevin": "LA6E74Y9A8ZJ16950",
+        "status": "in process"
+    },
+    {
+        "_id": "6410e1fecaa61d94df0f9eec",
+        "name": "Smeer.P",
+        "email": "sameeryoor@gmail.com",
+        "vehiclebrand": "Honda",
+        "vehiclevin": "1PCFSZV45NXP67375",
+        "status": "released"
+    },
+    {
+        "_id": "6410e2cecaa61d94df0f9eed",
+        "name": "Bhasheer Ahamad",
+        "email": "bhasheeryoor@gmail.com",
+        "vehiclebrand": "Volks Wagon",
+        "vehiclevin": "ZFEBHWBJDHLC13660",
+        "status": "canceled"
+    },
+    {
+        "_id": "6410e300caa61d94df0f9eee",
+        "name": "Ramanujam.R",
+        "email": "ramanyoor@gmail.com",
+        "vehiclebrand": "Skoda",
+        "vehiclevin": "5V2BSZ6N38N593505",
+        "status": "completed"
+    },
+    {
+        "_id": "641141149511b44593863cc2",
+        "name": "Kamali",
+        "email": "kamaliyoor@gmail.com",
+        "vehiclebrand": "Maruti Suzuki",
+        "vehiclevin": "X4AAFAPCEPAW12273",
+        "status": "created"
+    }
+]
+//lead 
+[
+    {
+        "_id": "6411579b3780bfe82169fabb",
+        "name": "Kumar",
+        "email": "kumaryoor@gmail.com",
+        "vehiclebrand": "Maruti Suzuki",
+        "vehiclevin": "UN0JZ2XP56MD27222",
+        "status": "new"
+    },
+    {
+        "_id": "641157d33780bfe82169fabc",
+        "name": "Gowthan.A",
+        "email": "gowthamyoor@gmail.com",
+        "vehiclebrand": "Tata",
+        "vehiclevin": "P729CZDL9CMT54898",
+        "status": "contacted"
+    },
+    {
+        "_id": "641158143780bfe82169fabd",
+        "name": "Rubini.T",
+        "email": "rubyyoor@gmail.com",
+        "vehiclebrand": "Honda",
+        "vehiclevin": "J39D2WM929GC89689",
+        "status": "qualified"
+    },
+    {
+        "_id": "641158463780bfe82169fabe",
+        "name": "Kirubhashini.B",
+        "email": "kiruyoor@gmail.com",
+        "vehiclebrand": "Maruti Suzuki",
+        "vehiclevin": "8NBCHLMXJFFS50565",
+        "status": "lost"
+    },
+    {
+        "_id": "641158713780bfe82169fabf",
+        "name": "Kathir.B",
+        "email": "kathiryoor@gmail.com",
+        "vehiclebrand": "Maruti Suzuki",
+        "vehiclevin": "LZS17XZLY1N991571",
+        "status": "canceled"
+    },
+    {
+        "_id": "641158d13780bfe82169fac0",
+        "name": "Vignesh.T",
+        "email": "vikkyryoor@gmail.com",
+        "vehiclebrand": "Renault",
+        "vehiclevin": "U6H67RUY8WG621166",
+        "status": "confirmed"
+    },
+    {
+        "_id": "641176f990fac3210e7a425c",
+        "name": "Selvam",
+        "email": "selvamyoor@gmail.com",
+        "password": "sk"
+    },
+    {
+        "_id": "6411770a90fac3210e7a425d",
+        "name": "Selvam",
+        "email": "selvamyoor@gmail.com",
+        "password": "sk"
+    },
+    {
+        "_id": "6411770c90fac3210e7a425e",
+        "name": "Selvam",
+        "email": "selvamyoor@gmail.com",
+        "password": "sk"
+    }
+]
